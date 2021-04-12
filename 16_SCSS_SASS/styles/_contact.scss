@@ -1,0 +1,9 @@
+.contact {
+    padding: 20px;
+    &__wrapper {
+        flex-wrap: wrap;
+      }
+    &__form-wrapper {
+        padding: $padding-standard;
+      }
+}

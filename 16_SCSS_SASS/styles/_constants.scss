@@ -1,0 +1,12 @@
+$padding-standard: 20px;
+$color-black: #090b08;
+$color-white: #fff;
+$color-darker-green: #97d279;
+$color-mid-green: #c0eea9;
+$color-light-green: #ecffe9;
+
+
+@mixin standard-text {
+    max-width: 700px;
+    text-align: center;
+  }
